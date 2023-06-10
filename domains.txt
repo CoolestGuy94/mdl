@@ -46,3 +46,8 @@
 @dralias.com
 @pm.me
 @proton.me
+@telenet.be
+@freemail.hu
+@netzero.net
+@netzero.com
+@onet.eu
